@@ -1,2 +1,2 @@
 created file2
-added new code
+create and commit file2
