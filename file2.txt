@@ -1,8 +1,5 @@
 created file2
-<<<<<<< HEAD
 create and commit file2
-=======
 commit test2
 fixed issue2
 resolved functinal bug2
->>>>>>> bugfix
