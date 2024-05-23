@@ -1,6 +1,3 @@
 confirmed test code3
-<<<<<<< HEAD
 commit test3
-=======
 commit code line3
->>>>>>> dev
