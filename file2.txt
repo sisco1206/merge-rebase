@@ -1,2 +1,6 @@
 created file2
+<<<<<<< HEAD
 commit test2
+=======
+create and commit file2
+>>>>>>> dev
