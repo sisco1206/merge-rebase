@@ -1,3 +1,11 @@
 created file2
+<<<<<<< HEAD
 commit test2
 create and commit file2
+=======
+create and commit file2
+commit test2
+fixed issue2
+resolved functinal bug2
+prepare next fix
+>>>>>>> 55d900a23713204915f1ad873924b0d4fcf4b1d4
