@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 Hello,
 My name is Francis
 and I try to get into the devOps field
-=======
 test 1
 commit 1
 fixed issue1
 resolved functional bug1
->>>>>>> d49dc66 (updated bugfix files)
