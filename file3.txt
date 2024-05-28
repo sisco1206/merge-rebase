@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 Hello,
 My name is Yelie
 and I try to get into the medical field
-=======
 confirmed test code3
 commit test3
 fixed issue3
 resolved functinal bug3
->>>>>>> d49dc66 (updated bugfix files)
