@@ -4,4 +4,4 @@ and I try to get into the medical field
 confirmed test code3
 commit test3
 fixed issue3
-resolved functinal bug3
+resolved functional bug3
