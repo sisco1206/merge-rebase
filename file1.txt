@@ -1,8 +1,5 @@
 test 1
 commit 1
-<<<<<<< HEAD
 modified code1
-=======
 fixed issue1
 resolved functional bug1
->>>>>>> bugfix
