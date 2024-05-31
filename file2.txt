@@ -2,4 +2,5 @@ Hello,
 My name is Elona
 and I try to become a doctor
 fixed issue2
-resolved functinal bug2
+resolved functional bug2
+echo "Learning python is very difficult"
