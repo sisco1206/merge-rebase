@@ -3,3 +3,4 @@ commit 1
 modified code1
 fixed issue1
 resolved functional bug1
+change second code line
