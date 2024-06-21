@@ -1,0 +1,23 @@
+name: release CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - name: hello Francis
+          run: echo "Good morning Angele"
+          shell: bash
+
+  test:
+    runs-on: ubuntu-latest        
+    steps:
+      - name: test for wlcome
+        run: echo "Welcome to my mom"
+        shell: bash
