@@ -2,6 +2,6 @@ Hello,
 My name is Yelie
 and I try to get into the medical field
 confirmed test code3
-commit test3
+committed test3
 fixed issue3
-resolved functional bug3
+resolved main functional bug
