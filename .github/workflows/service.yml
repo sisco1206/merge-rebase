@@ -19,5 +19,5 @@ jobs:
     runs-on: ubuntu-latest        
     steps:
       - name: test for welcome
-        run: echo "Welcome to my mom"
+        run: echo "Welcome to my mome"
         shell: bash
